@@ -1,0 +1,15 @@
+#caratura{
+	background-color: grey;
+}
+
+li{
+	display: inline-block;
+	margin: 0 0 0 2%;
+}
+nav a{
+	text-transform: uppercase;
+	color: black;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
